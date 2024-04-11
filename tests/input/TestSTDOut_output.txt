@@ -1,0 +1,6 @@
+No real roots
+Two equal real roots: x1 = x2 = -1.00
+Two real roots: x1 = -1.00 x2 = -3.00
+All coefficients are equal zero
+A and B coefficients are equal zero
+Linear equation: x = -1.50
